@@ -1,5 +1,14 @@
 window._ = require('lodash');
 
+// window.Vue = require('vue');
+
+// require('vue-resource');
+
+// Vue.http.interceptors.push((request, next) => {
+//     request.headers.set('X-CSRF-TOKEN', Laravel.csrfToken);
+//     next();
+// });
+
 /**
  * We'll load jQuery and the Bootstrap jQuery plugin which provides support
  * for JavaScript based Bootstrap features such as modals and tabs. This
