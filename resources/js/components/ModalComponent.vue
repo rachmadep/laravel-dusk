@@ -4,7 +4,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h4 class="modal-title">Modal title</h4>
-                    <button type="button" class="btn btn-sm" v-on:click="closeModal">
+                    <button type="button" class="btn btn-sm" id="closeModal" v-on:click="closeModal">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
